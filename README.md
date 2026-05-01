@@ -1,6 +1,6 @@
-# Basic python calculation practice
+# Basic Python Calculation Practice
 
-## Esha
+**Author:** Esha
 
-## What this project does
-This project is a simple Python-based application that demonstrates basic project structure, Git usage, and file organization.
+## Description
+Simple Python project to practice Git, project structure, and basic file organization.
