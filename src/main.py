@@ -1,4 +1,4 @@
-from utils import add, subtract
+from utils import add, subtract, multiplication
 print('Esha')
 print('1/04/2026')
 
@@ -7,3 +7,4 @@ b = 3
 
 print("Addition:", add(a, b))
 print("Subtraction:", subtract(a, b))
+print("Multiplication:", multiplication(a, b))
